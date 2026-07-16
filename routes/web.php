@@ -2,7 +2,7 @@
 
 use Illuminate\Support\Facades\Route;
 
-// Main Routes
+// Main Route
 
 Route::get('/', function () {
     return view('welcome');
